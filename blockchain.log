@@ -1,0 +1,31 @@
+2024-10-20 15:45:14,235 - __main__ - INFO - Starting blockchain application
+2024-10-20 15:45:14,235 - __main__ - INFO - Upload folder: data
+2024-10-20 15:45:14,235 - __main__ - INFO - Allowed extensions: {'pdf', 'jpg', 'jpeg', 'json', 'txt', 'csv', 'png'}
+2024-10-20 15:45:14,257 - werkzeug - WARNING -  * Debugger is active!
+2024-10-20 15:45:14,262 - werkzeug - INFO -  * Debugger PIN: 130-994-965
+2024-10-20 15:53:31,093 - __main__ - INFO - Starting blockchain application
+2024-10-20 15:53:31,093 - __main__ - INFO - Upload folder: data
+2024-10-20 15:53:31,093 - __main__ - INFO - Allowed extensions: {'json', 'csv', 'png', 'jpeg', 'jpg', 'pdf', 'txt'}
+2024-10-20 15:53:31,130 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8800
+2024-10-20 15:53:31,130 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-20 15:53:31,130 - werkzeug - INFO -  * Restarting with stat
+2024-10-20 15:53:31,465 - __main__ - INFO - Starting blockchain application
+2024-10-20 15:53:31,465 - __main__ - INFO - Upload folder: data
+2024-10-20 15:53:31,465 - __main__ - INFO - Allowed extensions: {'txt', 'csv', 'jpg', 'png', 'jpeg', 'json', 'pdf'}
+2024-10-20 15:53:31,482 - werkzeug - WARNING -  * Debugger is active!
+2024-10-20 15:53:31,486 - werkzeug - INFO -  * Debugger PIN: 130-994-965
+2024-10-20 15:53:43,518 - werkzeug - INFO - 127.0.0.1 - - [20/Oct/2024 15:53:43] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-20 15:56:07,855 - __main__ - INFO - Starting blockchain application
+2024-10-20 15:56:07,855 - __main__ - INFO - Upload folder: data
+2024-10-20 15:56:07,855 - __main__ - INFO - Allowed extensions: {'txt', 'jpeg', 'pdf', 'jpg', 'csv', 'png', 'json'}
+2024-10-20 15:56:07,886 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8800
+2024-10-20 15:56:07,887 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-20 15:56:07,888 - werkzeug - INFO -  * Restarting with stat
+2024-10-20 15:56:08,195 - __main__ - INFO - Starting blockchain application
+2024-10-20 15:56:08,195 - __main__ - INFO - Upload folder: data
+2024-10-20 15:56:08,195 - __main__ - INFO - Allowed extensions: {'jpeg', 'png', 'txt', 'jpg', 'csv', 'pdf', 'json'}
+2024-10-20 15:56:08,210 - werkzeug - WARNING -  * Debugger is active!
+2024-10-20 15:56:08,231 - werkzeug - INFO -  * Debugger PIN: 130-994-965
+2024-10-20 15:56:22,922 - werkzeug - INFO - 127.0.0.1 - - [20/Oct/2024 15:56:22] "[33mGET / HTTP/1.1[0m" 404 -
